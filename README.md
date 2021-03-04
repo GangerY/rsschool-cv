@@ -1,2 +1,2 @@
 # rsschool-cv
-https://GangerY.github.io/rsschool-cv/cv
+https://gangery.github.io/rsschool-cv/cv
